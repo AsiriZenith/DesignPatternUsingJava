@@ -20,14 +20,40 @@ class Singleton1{
 }
 
 /**
+ * Singleton2 -Thread safe Singleton method-
+ */
+class Singleton2 {
+
+    private volatile static Singleton2 uniqeInstance;
+
+    private Singleton2() {}
+
+    public static Singleton2 getInstance() {
+        if (uniqeInstance == null) {
+            synchronized (Singleton2.class){
+                if (uniqeInstance==null) {
+                    uniqeInstance = new Singleton2();
+                }
+            }
+        }
+        return uniqeInstance;
+    }
+
+    public void showSomeText() {
+        System.out.println("Singleton 2");
+    }
+    
+}
+
+/**
  * class Singleton{
 
  */
 class Singleton{
 
     public static void main(String[] args) {
-        Singleton1 obj;
-        obj = Singleton1.getInstance();
+        Singleton2 obj;
+        obj = Singleton2.getInstance();
         obj.showSomeText();
     }
     
