@@ -8,17 +8,17 @@ abstract class AbstractComputer {
     public abstract String getCPU();
      
     @Override
-    public String toString(){
-        return "RAM = "+this.getRAM()+", HDD ="+this.getHDD()+", CPU ="+this.getCPU();
+    public String toString() {
+        return "RAM ="+this.getRAM()+", HDD ="+this.getHDD()+", CPU ="+this.getCPU();
     }
 }
  
-class AbstractPC extends Computer {
+class AbstractPC extends AbstractComputer {
     private String ram;
     private String hdd;
     private String cpu;
      
-    public AbstractPC(String ram, String hdd, String cpu){
+    public AbstractPC(String ram, String hdd, String cpu) {
         this.ram = ram;
         this.hdd = hdd;
         this.cpu = cpu;
@@ -40,12 +40,12 @@ class AbstractPC extends Computer {
     }
 }
 
-class AbstractServer extends Computer {
+class AbstractServer extends AbstractComputer {
     private String ram;
     private String hdd;
     private String cpu;
      
-    public AbstractServer(String ram, String hdd, String cpu){
+    public AbstractServer(String ram, String hdd, String cpu) {
         this.ram = ram;
         this.hdd = hdd;
         this.cpu = cpu;
@@ -79,7 +79,7 @@ class PCFactory implements ComputerAbstractFactory {
 	private String hdd;
 	private String cpu;
 	
-	public PCFactory(String ram, String hdd, String cpu){
+	public PCFactory(String ram, String hdd, String cpu) {
 		this.ram = ram;
 		this.hdd = hdd;
 		this.cpu = cpu;
@@ -96,7 +96,7 @@ class ServerFactory implements ComputerAbstractFactory {
 	private String hdd;
 	private String cpu;
 	
-	public ServerFactory(String ram, String hdd, String cpu){
+	public ServerFactory(String ram, String hdd, String cpu) {
 		this.ram = ram;
 		this.hdd = hdd;
 		this.cpu = cpu;
@@ -109,7 +109,7 @@ class ServerFactory implements ComputerAbstractFactory {
 }
 
 class A_ComputerFactory {
-    public static Computer getComputer(ComputerAbstractFactory factory){
+    public static Computer getComputer(ComputerAbstractFactory factory) {
 		return factory.createComputer();
 	}
 }
