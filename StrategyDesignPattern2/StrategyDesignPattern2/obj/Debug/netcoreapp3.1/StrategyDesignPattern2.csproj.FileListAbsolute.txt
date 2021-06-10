@@ -1,0 +1,12 @@
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.exe
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.deps.json
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.runtimeconfig.json
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.runtimeconfig.dev.json
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.dll
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\bin\Debug\netcoreapp3.1\StrategyDesignPattern2.pdb
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.AssemblyInfoInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.AssemblyInfo.cs
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.csproj.CoreCompileInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.dll
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.pdb
+D:\programme\java programme\DesignPatternUsingJava\StrategyDesignPattern2\StrategyDesignPattern2\obj\Debug\netcoreapp3.1\StrategyDesignPattern2.genruntimeconfig.cache
