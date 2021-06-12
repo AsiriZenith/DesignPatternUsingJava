@@ -1,0 +1,13 @@
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.exe
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.deps.json
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.runtimeconfig.json
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.runtimeconfig.dev.json
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.dll
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\bin\Debug\netcoreapp3.1\CommandDesignPattern.pdb
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.csproj.AssemblyReference.cache
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfoInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.AssemblyInfo.cs
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.csproj.CoreCompileInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.dll
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.pdb
+D:\programme\java programme\DesignPatternUsingJava\CommandDesignPattern\CommandDesignPattern\obj\Debug\netcoreapp3.1\CommandDesignPattern.genruntimeconfig.cache
