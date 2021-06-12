@@ -1,0 +1,13 @@
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.exe
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.deps.json
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.runtimeconfig.json
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.runtimeconfig.dev.json
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.dll
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\bin\Debug\netcoreapp3.1\com.bridge.design.pattern.pdb
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.csproj.AssemblyReference.cache
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.AssemblyInfoInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.AssemblyInfo.cs
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.csproj.CoreCompileInputs.cache
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.dll
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.pdb
+D:\programme\java programme\DesignPatternUsingJava\BridgeDesignPattern2\com.bridge.design.pattern\com.bridge.design.pattern\obj\Debug\netcoreapp3.1\com.bridge.design.pattern.genruntimeconfig.cache
