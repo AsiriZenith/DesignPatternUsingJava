@@ -12,7 +12,7 @@ class BasicCar implements Car {
 
     @Override
     public void assemble() {
-        System.out.println("Basic Car.");
+        System.out.print("Basic Car.");
     }
 
 }
@@ -46,7 +46,7 @@ class SportsCar extends CarDecorator {
 
     public void assemble() {
         super.assemble();
-        System.out.println("Adding features of Sports Car.");
+        System.out.print("Adding features of Sports Car.");
     }
 }
 
@@ -61,7 +61,7 @@ class LuxuryCar extends CarDecorator {
 
     public void assemble() {
         super.assemble();
-        System.out.println("Adding features of Luxury Car.");
+        System.out.print("Adding features of Luxury Car.");
     }
 }
 
