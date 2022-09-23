@@ -1,5 +1,7 @@
 package ChainOfResponsibilityPattern;
 
+import java.util.Scanner;
+
 /**
  * DespenseChain
  */
@@ -116,6 +118,24 @@ public class ChainOfResponsibilityPattern {
         this.c1 = new Doller50Dispenser();
         DispenseChain c2 = new Doller20Dispenser();
         DispenseChain c3 = new Doller10Dispenser();
+
+        c1.setNextChain(c2);
+        c2.setNextChain(c3);
     }
 
+    public static void main(String[] args) {
+
+        ChainOfResponsibilityPattern chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
+        while (true) {
+            int amount = 0;
+            System.out.println("\nEnter amount to dispense");
+            Scanner input = new Scanner(System.in);
+            amount = input.nextInt();
+            if (amount % 10 != 0) {
+                System.out.println("Amount should be in multiple of 10s.");
+                return;
+            }
+            chainOfResponsibilityPattern.c1.dispense(new Currency(amount));
+        }
+    }
 }
